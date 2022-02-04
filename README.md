@@ -1,4 +1,4 @@
-<h1 align="center">CyberSecurityBreachAnalysis</h1>
+<h1 align="center">Cyber Security Breach Analysis</h1>
 
 # What is Data Breach?
 > A data breach is a security violation, in which sensitive, protected or confidential data is copied, transmitted, viewed, stolen or used by an individual unauthorized to do so.There are mainly 3 types of data breaches :
