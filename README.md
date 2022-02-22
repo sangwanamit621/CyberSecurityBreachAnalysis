@@ -12,8 +12,7 @@
 __Importance of Cyber Security :__ The importance of cyber security comes down to the desire to keep information, data, and devices private and safe.If a cybercriminal was to gain access to this data, they could cause a range of problems. They could share sensitive information, use passwords to steal funds, or even change data so that it benefits them in some way._Companies need cyber security to keep their data, finances, and intellectual property safe._
 
 # About the Project
-> Data and Security Breaches have become a bigger problem for companies in this digital world. Cyber Security plays an important role in tackling with these problems. The objective of this project is to create a dashboard which can help in tracking breaches happened in the past and events related to those breaches.
-
+> Data and Security Breaches have become a bigger problem for companies in this digital world. Cybersecurity plays an important role in tackling these issues. The objective of this project is to create a dashboard that can help in tracking breaches that happened in the past and events related to those breaches.
 # Dashboards
 
 ![Home](https://user-images.githubusercontent.com/96620780/152482364-1fae1e67-a420-42a0-b707-37f356ddfdb2.PNG)
